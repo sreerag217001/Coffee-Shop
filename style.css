@@ -1,0 +1,380 @@
+
+#c1{
+    width:100%;
+    height: 180px;
+    background-image:url(./images/Double\ Colour\ tone\ effect.jpg);
+
+}
+#c2{
+    width: 70px;
+    height: 70PX;
+    position: relative;
+    left:400px;
+    top:-200px;
+}
+
+H1{
+    color: aliceblue;
+    text-shadow: 2px 2px 5px;
+    
+}
+h1:hover{
+    color: red;
+}
+
+#c2 img{
+    width:70px;
+    height: 70px;
+    border-radius: 100px;
+
+}
+body{
+    background-image: url(./images/blue\ house.jpg);
+
+}
+h5{
+    color: aliceblue;
+    position: relative;
+    top:-2px;
+    right: 40px;
+    
+}
+h2{
+    font-family: 'Lobster', cursive;
+}
+#c3{
+        width: 40px;
+        height: 40px;
+        position: relative;
+        left:1290px;
+        top: 5px;
+        border-radius: 100px;
+        background-color: rgb(197, 214, 214);
+        position: sticky;
+}
+#c3 img{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left:5px;
+    top: 5px;
+}
+#c4{
+    width: 420px;
+    height: 440px;
+    margin-left: 480px;
+    position: relative;
+    top: -100px;
+    text-indent: 30px;
+}
+#c4 p{
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 1.5;
+    border-style:double;
+    background-color: black;
+    color: azure;
+}
+#c5{
+    color: azure;
+    position: relative;
+    top:-250px;
+}
+#c6 p{
+    color:#c8d7de;
+    font-family: 'Pacifico', cursive;
+    position: relative;
+    top:-240px;
+
+}
+li{
+    letter-spacing: 2px;
+}
+#d2{
+    color: beige;
+    font-family: 'Rampart One', cursive;
+    position: relative;
+    top: -200px;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px;
+}
+#c7{
+    width: 210px;
+    height: 170px;
+    position: relative;
+    left:470px;
+}
+#c7 img{
+    width: 210px;
+    height: 170px;
+}
+h4{
+    position: relative;
+    left: 230px;
+    top:-200px;
+}
+#G5{
+    width: 250px;
+    position: relative;
+    left: 230px;
+    top:-210px;
+    word-spacing: 7px;
+    line-height: 1.5;
+    text-transform: capitalize;
+
+}
+#c8{
+    width: 210px;
+    height: 170px;
+    position: relative;
+    left:720px;
+    top: 70px;
+}
+#c8 img{
+    width: 210px;
+    height: 170px;
+}
+h3{
+    position: relative;
+right: 190px;
+    top: -210px;
+    
+}
+#c8 p{
+    position: relative;
+    right:270px;
+    top:-220px;
+    word-spacing: 7px;
+    line-height: 1.5;
+    width: 250px;
+    text-transform: capitalize;
+}
+#c9{
+    width: 210px;
+    height: 170px;
+    position: relative;
+    left: 470px;
+    top:120px;
+}
+img{
+    width: 210px;
+    height: 170px;
+}
+#G6{
+    position: relative;
+    left:290px;
+}
+#c9 p{
+    width: 250px;
+    position: relative;
+    left: 260px;
+    top:-230px;
+    word-spacing: 7px;
+    line-height: 1.5;
+    text-transform: capitalize;
+}
+#c10{
+    width: 210px;
+    height: 170px;
+    position: relative;
+    left:720px;
+    top: 200px;
+}
+#G7{
+    position: relative;
+    right: 190px;
+        top: -240px;
+}
+#e1{
+    text-transform: capitalize;
+    width: 250px;
+    position: relative;
+    right: 260px;
+    top:-250px;
+    word-spacing: 7px;
+    line-height: 1.5;
+}
+#c11{
+    width: 210px;
+    height: 170px;
+    position: relative;
+    left: 470px;
+    top:250px;
+}
+#G8{
+    position: relative;
+    left:290px;
+}
+#c11 p{
+    width: 250px;
+    position: relative;
+    left: 290px;
+    top:-220px;
+    word-spacing: 7px;
+    line-height: 1.5;
+    text-transform: capitalize;
+}
+#you{
+    color: aliceblue;
+    position: relative;
+    top:200px;
+    font-family: 'Monoton', cursive;
+    text-decoration: underline;
+}
+#name{
+    width: 100%;
+    height: 800px;
+    background-color: brown;
+    margin-top: 350px;
+    position: relative;
+    top:-100px;
+}
+#k1{
+    width:250px;
+    height:200px;
+    margin-left: 300px;
+    position: relative;
+    top:40px;
+}
+#k2{
+    width:250px;
+    height:200px;
+    margin-left: 580px;
+    position: relative;
+    top:-160px;
+
+}
+#k3{
+    width:250px;
+    height:200px;
+    margin-left: 860px;
+    position: relative;
+    top:-360px;
+
+}
+#k4{
+    width:250px;
+    height:200px;
+    margin-right: 400px;
+    position: relative;
+    top: -340px;
+    left: 300px;
+
+}
+#k5{
+    width:250px;
+    height:200px;
+    margin-left:500px;
+    position: relative;
+    top: -540px;
+    left:80px;
+
+}
+#k6{
+    width:250px;
+    height:200px;
+    margin-left: 500px;
+    position: relative;
+    top:-740px;
+    left:360px;
+
+}
+#k7{
+    width:250px;
+    height:200px;
+    position: relative;
+    top:-720px;
+    left:300px;
+}
+#k8{
+    width:250px;
+    height:200px;
+    position: relative;
+    top:-920px;
+    left:580px;
+}
+#k9{
+    width:250px;
+    height:200px;
+    position: relative;
+    top:-1125px;
+    left:860px;
+}
+img{
+    width:250px;
+    height:200px;
+}
+#me{
+    margin-top: 40px;
+    margin-left: 360px;
+}
+#main{
+    width:600px;
+    height: 300px;
+    background-color:#181c1c;
+    position: relative;
+    left:420px;
+    top:-200px;
+}
+button{
+    color: blueviolet;
+    background-color: black;
+}
+#v2{
+    width: 850px;
+    height: 180px;
+    background-color:#181b1c;
+    margin-left: 310px;
+    margin-top: -170px;
+}
+#v1{
+    width: 80px;
+    height: 80px;
+    margin-left:70px;
+    position: relative;
+    top:-150px;
+}
+#v1 img{
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+}
+#star{
+    color: beige;
+}
+#v2 h3{
+    color: beige;
+    position: relative;
+    top:-60px;
+    left:700px;
+}
+#rock{
+    width:210px;
+    height:150px;
+    margin-left: 630px;
+    margin-top: -90px;
+}
+#rock h5{
+    position: relative;
+    left:40px;
+}
+li{
+    
+    position: relative;
+    top: -240px;
+    display: inline;
+    padding: 10px;
+    color: blue;
+    background-color: black;
+cursor:auto;
+
+}
+#monsco{
+    position: relative;
+    top: -150px;
+}
+#sun{
+    position: relative;
+    left:490px;
+    color: #cc5104;
+}
